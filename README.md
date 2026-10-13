@@ -17,7 +17,7 @@ This project performs Exploratory Data Analysis (EDA) on the cleaned Tuesday Wor
 - **Columns:** 79
 - **Traffic classes:** BENIGN, FTP-Patator, SSH-Patator
 
-The original dataset is available from the [Canadian Institute for Cybersecurity](https://www.unb.ca/cic/datasets/ids-2017.html).
+The original dataset is available from the https://www.unb.ca/cic/datasets/ids-2017.html .
 
 ## Tools and Technologies
 - Python
